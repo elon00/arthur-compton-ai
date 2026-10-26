@@ -1,0 +1,14 @@
+{
+  "project": "arthur-compton-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "DpqQEqLZyvsa3WVi3HdaFcUWZft7LZN5Mh1jWzPBtsPp",
+  "vault_account": "2FLcGQpZRWX2g9SALeRLRZgySj4zD85pcXk9RTEt5z53",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "3Qqxs28CqRDHHDYLyRm1ksrxAYpikxpoSynPZq6AkzXwDy4MCNW2jSH5vg3U3qHqcaHaYt7QyRG5aoFxAFmqR28E",
+  "account_tx": "5mwnUknwvqotrpTNXMZo3FwZDcCcK5wLx8JPuFyyb9tQS7wRSjfDSR52fmFjSgpotKn1UCULoMfw9qYfKhSiWwk1",
+  "mint_tx": "a6jHZYxgP1Mz6tcZZmCUc6x1ex7tUdRmxmfaJhzigWxDzFnphc89vCtDZvuYk38W22nwBrewjYDFFT3jYNnS5T4",
+  "solana_explorer_mint": "https://explorer.solana.com/address/DpqQEqLZyvsa3WVi3HdaFcUWZft7LZN5Mh1jWzPBtsPp?cluster=devnet",
+  "timestamp": "2026-10-26 16:19:47 UTC"
+}
